@@ -68,8 +68,41 @@ nav a:hover {
 .flex-conteiner .col{
     width: 430px;
     align-items: center;
-    
-
 } 
+.Produto{
+    width: 235px;
+    padding: 20px;
+}
+
+.Produto figure{
+    border: 1px solid #c4c4c4;
+    background-color: #fff;
+    margin: 0 0 15px 0;
+    /* Esquerdo topo direita rodapé */
+    padding: 0;
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+}
+
+.btn-pata{
+    border: 1px solid #91e467;
+    background-color: #d2fbbd;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #000;
+}
+
+.Produto figure img{
+    vertical-align: middle;
+}
+
+.texto-centralizado{
+    text-align: center;
+    padding: 5px;
+}
+
 
 
